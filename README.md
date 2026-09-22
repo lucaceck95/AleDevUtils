@@ -10,5 +10,3 @@ npm run dev
 ```
 
 Apre `http://localhost:9999`.
-
-Gli script Python girano solo in locale. Su GitHub Pages non c'è un server.

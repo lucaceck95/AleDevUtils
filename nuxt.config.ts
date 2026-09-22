@@ -19,7 +19,15 @@ export default defineNuxtConfig({
         '/codice-fiscale',
         '/generatore-dati',
         '/lorem-ipsum',
-        '/python',
+        '/json',
+        '/jwt',
+        '/base64',
+        '/url',
+        '/unix',
+        '/uuid',
+        '/sha256',
+        '/cron',
+        '/regex',
         '/landing'
       ]
     }

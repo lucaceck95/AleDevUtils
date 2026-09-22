@@ -52,9 +52,16 @@ const categories: Category[] = [
   },
   {
     name: 'Utility Dev',
-    badge: 'Soon',
     items: [
-      { label: 'Codice Python', to: '/python' },
+      { label: 'JSON', to: '/json' },
+      { label: 'JWT', to: '/jwt' },
+      { label: 'Base64', to: '/base64' },
+      { label: 'URL Encode', to: '/url' },
+      { label: 'Unix Time', to: '/unix' },
+      { label: 'UUID', to: '/uuid' },
+      { label: 'SHA-256', to: '/sha256' },
+      { label: 'Cron', to: '/cron' },
+      { label: 'Regex', to: '/regex' },
       { label: 'Lorem Ipsum', to: '/lorem-ipsum' }
     ]
   }

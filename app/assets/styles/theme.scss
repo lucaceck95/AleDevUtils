@@ -102,6 +102,15 @@ body {
   border-bottom-right-radius: 0 !important;
 }
 
+.regex-hit {
+  background: rgba(77, 124, 255, 0.45);
+  border-radius: 0.2rem;
+}
+
+.tool-mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
 .output-pre {
   white-space: pre-wrap;
   word-break: break-word;
